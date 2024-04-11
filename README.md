@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sayan666roy
 - 👀 I’m interested in Python and R
-- 🌱 I’m currently learning Excel and SQL
-- 💞️ I’m looking to collaborate on differnt AI and ML projects
+- 🌱 I’m currently working on Powe BI, Excel and SQL
+- 💞️ I’m looking to collaborate on different AI and ML projects
 - 📫 How to reach me : sayandavinci@gmail.com
 
 <!---
